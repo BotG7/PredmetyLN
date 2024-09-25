@@ -6,6 +6,7 @@ https://drive.google.com/drive/folders/1AyjFePzVD0CMBMpa-D-bjv1WZuAGf5BXt
 ------------------------------------------------------------------------------------
 ***ПИРАТЫ КРЕМНЕВОЙ ДОЛИНЫ***
 https://docs.google.com/presentation/d/1n4f59g_uZ4TUHy2notLJo-nKyUr2e0pYFZCajwZNPlc/edit#slide=id.p
-__
+------------------------------------------------------------------------------------------------------
 ***КОНСПЕКТЫ***
 https://drive.google.com/drive/folders/1Euo-TB04ztJ50PB-6wuC9GZxxDaJ5qzk
+--------------------------------------------------------------------------------------
