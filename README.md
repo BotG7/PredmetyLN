@@ -3,7 +3,7 @@ https://docs.google.com/document/d/1PACM9LntDh_gixadS4dPU6usnQS0uy544NTcmLtMJ_s/
 ------------------------------------------------------------------------------------
 ***ВПР***
 https://drive.google.com/drive/folders/1AyjFePzVD0CMBMpa-D-bjv1WZuAGf5BXt
-__
+------------------------------------------------------------------------------------
 ***ПИРАТЫ КРЕМНЕВОЙ ДОЛИНЫ***
 https://docs.google.com/presentation/d/1n4f59g_uZ4TUHy2notLJo-nKyUr2e0pYFZCajwZNPlc/edit#slide=id.p
 __
