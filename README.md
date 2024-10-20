@@ -13,3 +13,6 @@ https://drive.google.com/drive/folders/1Euo-TB04ztJ50PB-6wuC9GZxxDaJ5qzk
 ***Практика***
 https://docs.google.com/document/d/1JMNAlytD1pN2pfB-BlILvYbpx4eh9qQh49wtXv5sKs0/edit
 --------------------------------------------------------------------------------------
+***Номинация***
+https://docs.google.com/presentation/d/1lEieS8CJnx9iBpuzOn9F48l1wRGUBbSjVGC5v2WglvE/edit#slide=id.g30bdc1805c4_0_51
+--------------------------------------------------------------------------------------------
