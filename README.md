@@ -1,5 +1,5 @@
 # PredmetyLN :white_check_mark:
-***DISC***https://docs.google.com/document/d/1PACM9LntDh_gixadS4dPU6usnQS0uy544NTcmLtMJ_s/edit
+***DISC***hhttps://drive.google.com/drive/folders/1CbadFxBhDfUbGehPT-ASNd_05dV4LI07
 ------------------------------------------------------------------------------------
 ***ВПР***
 https://drive.google.com/drive/folders/1AyjFePzVD0CMBMpa-D-bjv1WZuAGf5BX
