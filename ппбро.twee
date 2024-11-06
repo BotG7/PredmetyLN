@@ -1,0 +1,172 @@
+:: StoryTitle
+murza
+
+
+:: StoryData
+{
+  "ifid": "6BB2CE7E-1A55-4CED-A982-D20FF6DE05DE",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Знакомство",
+  "tag-colors": {
+    "игра-началась": "red",
+    "hellyea": "orange"
+  },
+  "zoom": 0.6
+}
+
+
+:: SQL [hellyea] {"position":"1000,450","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Что это вообще такое SQL?]]]</div>
+<img src="https://i.postimg.cc/Fsn2Zxrf/1.png" width="580" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Для начало разберем что такое SQL. SQL (Structured Query Language) — это язык структурированных запросов, который позволяет создавать, изменять, удалять и извлекать данные. Эта штука необходима для работы с Базами данных🙃. ]]]</div>
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Зачем SQL нужен?->цель]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Назад->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Закрыть->АЛЬТФ4]]]
+</div>
+
+
+:: XXX SQL {"position":"1500,825","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Закрыть->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[
+[[План->План изучения]]
+]
+</div>
+
+
+:: АЛЬТФ4 {"position":"1275,575","size":"100,100"}
+<script>
+window.close();
+</script>
+
+
+:: БД {"position":"1125,925","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Определение БД]]]</div>
+<img src="https://i.postimg.cc/Fsn2Zxrf/1.png" width="580" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 100px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[База данных — это совокупность данных, хранимых в соответствии со схемой данных. Она отражает состояние объектов и их отношений в рассматриваемой предметной области. 
+База данных позволяет эффективно организовывать, хранить и извлекать информацию.]]]</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Назад->SQL]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Закрыть->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Виды->виды БД]]]
+</div>
+
+
+:: Знакомство [игра-началась] {"position":"1325,300","size":"200,200"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Знакомство]]]</div>
+
+<img src="https://i.postimg.cc/Fsn2Zxrf/1.png" width="580" height="400">
+(set:$fio to(prompt:"Как тебя называть грешник?",""))
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; position: absolute; top: 100px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Приветствую, $fio, в моем классе😜Меня зовут Ремор. Здесь я попробую научить тебя SQLю.Чтобы ускорить обучение общаться будем через субтитры👀. Надеюсь ты не закончишь как все остальные 😈]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[План->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[
+[[Закрыть->АЛЬТФ4]]
+]
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: Итог {"position":"1675,425","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Подведем Итоги]]]</div>
+<img src="https://i.postimg.cc/Fsn2Zxrf/1.png" width="580" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Сегодня вместо пожирания душь, я рассказал тебе про SQL: что это такое, для чего он нужен. Так. Надеюсь тебе понравился урок. Больше не возвращайся ]]]</div>
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[назад->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Закрыть->АЛЬТФ4]]]
+</div>
+
+
+:: План изучения {"position":"1625,650","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[План изучения]]]</div>
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[определение SQL->SQL]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Для чего нужен SQL->цель]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[XXX SQL->XXX SQL]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[XX SQL->Итог]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Закрыть->АЛЬТФ4]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[примеры вывода данных->Скрины]]]
+</div>
+
+
+:: Скрины {"position":"1625,775","size":"100,100"}
+<img src="" width="580" height="400">
+
+
+:: виды БД {"position":"1125,1050","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Виды БД]]]</div>
+
+<img src="https://i.postimg.cc/Fsn2Zxrf/1.png" width="580" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Всего 5 видов бд:
+1.Реляционная бд - напоминает excel таблицы)
+2.Нереляционная бд - Документо-ориентированные, Ключ-значение, Колонко-ориентированные, Графовые
+3.Объектно-ориентированная бд - Хранят данные в виде объектов, соедиденных с ОО языками програпирования
+4.Иерархическая бд - Создается в виде древовидной структере с отношением родитель-ребенок
+5.Сетевая бд - Напоминает на паутину
+Нам нужно побольше познокомится с реляцианными бд так как остальные узконаправленные и только реляционные может быть всесторонней]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[План->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Закрыть->АЛЬТФ4]]]
+</div>
+
+
+:: цель {"position":"975,725","size":"100,100"}
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; background: linear-gradient(to right, rgba(28,28,28,0.5), rgba(28,28,28, 0));">(text-style:"bold","none")[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[(text-colour:white)[Для чего вообще нужен SQL?]]]</div>
+<img src="https://i.postimg.cc/Fsn2Zxrf/1.png" width="580" height="400">
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px;position: absolute; top: 65px; left: 580px;">(text-style:"bold","outline")[(b4r:"dashed","none")+(b4r-colour:yellow,grey)[(text-colour:red)[Говорят: "если поймешь для чего нужно ... , то поймешь как изучить ... 🤓
+.". SQL нужен чтобы составлять запросы и находить среди большого объема информации ту, что нужна для конкретных целей, сортировать её, структурировать и представлять в наиболее простом виде. Представьте, что база данных — это большая библиотека, а данные — это книги. SQL — это как универсальный язык общения с библиотекарем. Используя SQL, вы можете эффективно управлять данными в базе данных. ]]]</div>
+
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Назад->План изучения]]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[Что такое База данных->БД]]
+</div>
+<div style="background-color: rgba(28, 28, 28, 0.5); padding: 10px; ">(b4r:"groove","none")+(b4r-colour:orange,yellow)[[[Закрыть->АЛЬТФ4]]]
+</div>
+
+
+:: StoryStylesheet [stylesheet]
+tw-link
+{
+  color:#ffffff;
+}
+
+tw-story
+{
+  font-family:Arial;
+  font-size: 22px;
+}
+
+tw-story {
+  background-image:url("https://i.pinimg.com/originals/e8/f7/91/e8f791a9817f03a0ca5dfed0f2422807.jpg");
+ background-size:cover;
+}
