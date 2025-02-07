@@ -22,3 +22,6 @@ https://docs.google.com/presentation/d/1lEieS8CJnx9iBpuzOn9F48l1wRGUBbSjVGC5v2Wg
 ![image](https://github.com/user-attachments/assets/2d2ddcf6-1df5-45a2-8abf-5564ce38561f)
 
 ----------------------------------------------------------------------------------------------
+***Трафик на кали через WIRESSHARK***
+![image](https://github.com/user-attachments/assets/8b4155b7-6393-4d77-875a-7b6a9a11a088)
+----------------------------------------------------------------------------------------------
